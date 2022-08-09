@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django and Flask Framework**
 
-- 💬 Ask me about **Python, Database(MySQL, Oracle, PostgreSQL), Web Scraping**
+- 💬 Ask me about **Python, Database(MySQL, Oracle, PostgreSQL), Web Scraping(requests, bs4, scrapy), Automation(Selenium Web Driver)**
 
 - 📫 How to reach me **vkyraghuwanshi09@gmail.com**
 
