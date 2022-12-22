@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **vkyraghuwanshi09@gmail.com**
 
-- 💼 Internship **Working as Data Science Intern at [Innomatcis Reseach Labs](https://www.innomatics.in/) | [Innomatics LinkedIn](https://www.linkedin.com/company/innomaticshyd/mycompany/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
