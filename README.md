@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Weather Application using Django**
 
-- 🌱 I’m currently learning **Django, Flask Framework and Power-BI**
+- 🌱 I’m currently learning **Django Framework, OpenCV and Power-BI**
 
 - 💬 Ask me about **Python, Data Science, Machine Learning, Database(MySQL, Oracle, PostgreSQL), Web Scraping(requests, bs4, scrapy), Automation(Selenium Web Driver)**
 
