@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vicky Raghuwanshi</h1>
-<h3 align="center">A passionate backend developer from India currently pursuing my graduation in Computer Science domain</h3>
+<h3 align="center">A passionate backend developer from India currently pursuing my graduation in Computer Science domain (8th sem)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vicky-raghuwanshi07&label=Profile%20views&color=0e75b6&style=flat" alt="vicky-raghuwanshi07" /> </p>
 
