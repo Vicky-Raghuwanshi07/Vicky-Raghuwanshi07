@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Vicky Raghuwanshi</h1>
-<h3 align="center">A passionate backend developer from India currently pursuing my graduation in Computer Science domain (8th sem)</h3>
+<h1 align="center">Greeting 👋, &lt;Geeks/&gt;!</h1>
+
+<h2 align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=605&lines=This+is+Vicky+Raghuwanshi;Aspiring+%3A+Software+Engineer+%7C+Backend+Developer+;Love+Programming%F0%9F%96%A5%EF%B8%8F+and+Sport%F0%9F%8F%80;Open+Source+Contributor)](https://git.io/typing-svg)
+</h2>
+  
+<h3 align="center">A fresh graduate student:man_student: with a degree in Computer Science and Engineering:man_technologist: and a passionate Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vicky-raghuwanshi07&label=Profile%20views&color=0e75b6&style=flat" alt="vicky-raghuwanshi07" /> </p>
 
-- 🔭 I’m currently working on **Weather Application using Django**
-
-- 🌱 I’m currently learning **Django Framework, OpenCV and Power-BI**
+- 🌱 I’m currently learning **Java Script and React**
 
 - 💬 Ask me about **Python, Data Science, Machine Learning, Database(MySQL, Oracle, PostgreSQL), Web Scraping(requests, bs4, scrapy), Automation(Selenium Web Driver)**
 
@@ -24,6 +28,7 @@
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer" title='Python'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" title='Pandas'> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" title='AWS'> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/aws-logo.svg" alt="aws" width="40" height="40"/> </a> 
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" title='Sklearn'> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" title='Seaborn'> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer" title='Selenium'> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
@@ -42,9 +47,11 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer" title="Postman"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vicky-raghuwanshi07&show_icons=true&locale=en&layout=compact" alt="vicky-raghuwanshi07"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vicky-raghuwanshi07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" alt="vicky-raghuwanshi07"/></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vicky-raghuwanshi07&theme=swift&show_icons=true&show_icons=true&locale=en" alt="vicky-raghuwanshi07"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vicky-raghuwanshi07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" alt="vicky-raghuwanshi07"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vicky-raghuwanshi07&" alt="vicky-raghuwanshi07"/></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vicky-raghuwanshi07&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" alt="vicky-raghuwanshi07"/></p>
 
